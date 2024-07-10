@@ -9,6 +9,25 @@
   - [For Users](#for-users)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Pages](#pages)
+  -Home page(#home-page)
+  -Search functionality(search-functionality)
+  -Mylistings(#mylistings)
+  -Add product(#add-product)
+  -Update product(#update-product)
+  -Delete product(#delete-product)
+  -User register(#user-register)
+  -User login(#user-login)
+  -Admin dashboard(#admin-dashboard)
+    -Admin login(admin-login)
+    -Authentication and Authorization(#authentication-and-authorization)
+    -Products(#products)
+    -Profile(#profile)
+  -Seller profile(#seller-profile)
+  -Checkout(#checkout)
+  -Payment(#payment)
+  -Payment success(#payment-success)
+-Video attachment(#video-attachment)
 - [Conclusion](#conclusion)
 
 ## Introduction
@@ -92,11 +111,67 @@ Follow these steps to set up SmartTradeHub locally:
 - **User Interface**: Browse products, add items to the cart, and complete the checkout process.
 - **Seller Portal**: Add new products or manage existing listings via the seller dashboard.
 
-  ![image](https://github.com/rubikab23/buy-sell-application-django-certification-course/assets/145020830/21faf21e-a79e-4d3a-981c-34f41d41bc7e)
+## Pages
+
+### Home page
+![image](https://github.com/rubikab23/buy-sell-application-django-certification-course/assets/145020830/ebfb42da-a660-4418-8bb2-7385ec471ad7)
+
+### Search functionality
+![image](https://github.com/rubikab23/buy-sell-application-django-certification-course/assets/145020830/d2889426-534d-4ed3-9d04-11ae31e9c5e1)
+
+### Mylistings
+![image](https://github.com/rubikab23/buy-sell-application-django-certification-course/assets/145020830/232bcc0d-527a-4986-bfd4-81a28d512f44)
+
+
+### Add product
+![image](https://github.com/rubikab23/buy-sell-application-django-certification-course/assets/145020830/d4847083-e599-4c18-a458-650976ef9901)
+
+### Update product
+![image](https://github.com/rubikab23/buy-sell-application-django-certification-course/assets/145020830/70ab5272-bc23-4a61-a099-18833027ee18)
+
+### Delete product
+![image](https://github.com/rubikab23/buy-sell-application-django-certification-course/assets/145020830/dbca1659-dd06-48f5-b1d6-206261cc85a1)
+
+### User register
+![image](https://github.com/rubikab23/buy-sell-application-django-certification-course/assets/145020830/d30ff426-3fb6-4b27-99a5-4e7c19b7af19)
+
+### User login
+![image](https://github.com/rubikab23/buy-sell-application-django-certification-course/assets/145020830/e4d8317f-1352-41de-8b48-46128498030a)
+
+### Admin dashboard
+
+#### Admin login
+![image](https://github.com/rubikab23/buy-sell-application-django-certification-course/assets/145020830/1440db00-bdff-4771-9dfe-4caadb141ef7)
+
+#### Authentication and Authorization
+![image](https://github.com/rubikab23/buy-sell-application-django-certification-course/assets/145020830/3e94d844-6534-4f79-8831-c5aefd1e8208)
+
+
+#### Products
+![image](https://github.com/rubikab23/buy-sell-application-django-certification-course/assets/145020830/2f32159d-1b52-4089-ab1a-8c48ac1e616b)
+
+#### Profile
+![image](https://github.com/rubikab23/buy-sell-application-django-certification-course/assets/145020830/c96b7d65-4198-4672-a919-bbd53785d1ac)
+
+### Seller profile
+![image](https://github.com/rubikab23/buy-sell-application-django-certification-course/assets/145020830/8f020384-8edb-4389-9144-e8f34a0cae39)
+
+### Checkout
+![image](https://github.com/rubikab23/buy-sell-application-django-certification-course/assets/145020830/36e6acb7-81d0-428a-a94a-780ded9897fb)
+
+### Payment
+![image](https://github.com/rubikab23/buy-sell-application-django-certification-course/assets/145020830/a3234cf6-ffc0-41ed-8814-64293d660425)
+
+### Payment success
+![image](https://github.com/rubikab23/buy-sell-application-django-certification-course/assets/145020830/886405de-3265-4b3d-83e5-496116641dcc)
+
+
+## Video attachment
+https://github.com/rubikab23/buy-sell-application-django-certification-course/assets/145020830/da3def76-bc37-48ae-9690-0feab661aff6
 
 
 ## Conclusion
 SmartTradeHub is designed to transform the e-commerce experience, making it easy and secure for users to buy and sell products online. With a focus on user experience, security, and efficient management, SmartTradeHub is your go-to platform for all your e-commerce needs. 
 
 
-Thank you for choosing SmartTradeHub! Happy trading and happy coding !
+**Thank you for choosing SmartTradeHub! Happy trading and happy coding !**
