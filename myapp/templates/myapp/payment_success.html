@@ -1,0 +1,14 @@
+
+{% extends 'myapp/base.html' %}
+{% load static %}
+{% block title %}Payment Success{% endblock %}
+
+{% block content %}
+<div class="container mx-auto mt-8 h-full flex justify-center items-center">
+    <div class="bg-white p-6 shadow-md text-center">
+        <p class="text-lg text-green-600">We received your order, payment was successful</p>
+        <img src="{% static 'myapp/images/success.png' %}" alt="Success Image" class="mt-4 mx-auto">
+        <a href="{% url 'myapp:products' %}" class="block text-blue-700 hover:underline mt-4">Back to Products</a>
+    </div>
+</div>
+{% endblock %}
