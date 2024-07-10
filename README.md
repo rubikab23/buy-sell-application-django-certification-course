@@ -92,6 +92,9 @@ Follow these steps to set up SmartTradeHub locally:
 - **User Interface**: Browse products, add items to the cart, and complete the checkout process.
 - **Seller Portal**: Add new products or manage existing listings via the seller dashboard.
 
+  ![image](https://github.com/rubikab23/buy-sell-application-django-certification-course/assets/145020830/21faf21e-a79e-4d3a-981c-34f41d41bc7e)
+
+
 ## Conclusion
 SmartTradeHub is designed to transform the e-commerce experience, making it easy and secure for users to buy and sell products online. With a focus on user experience, security, and efficient management, SmartTradeHub is your go-to platform for all your e-commerce needs. 
 
