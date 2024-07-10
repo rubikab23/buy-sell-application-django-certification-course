@@ -114,14 +114,13 @@ Follow these steps to set up SmartTradeHub locally:
 ## Pages
 
 ### Home page
-![image](https://github.com/rubikab23/buy-sell-application-django-certification-course/assets/145020830/ebfb42da-a660-4418-8bb2-7385ec471ad7)
+![image](https://github.com/rubikab23/buy-sell-application-django-certification-course/assets/145020830/114397df-ca12-4545-ad97-ddc883e997fa)
 
 ### Search functionality
 ![image](https://github.com/rubikab23/buy-sell-application-django-certification-course/assets/145020830/d2889426-534d-4ed3-9d04-11ae31e9c5e1)
 
 ### Mylistings
 ![image](https://github.com/rubikab23/buy-sell-application-django-certification-course/assets/145020830/232bcc0d-527a-4986-bfd4-81a28d512f44)
-
 
 ### Add product
 ![image](https://github.com/rubikab23/buy-sell-application-django-certification-course/assets/145020830/d4847083-e599-4c18-a458-650976ef9901)
